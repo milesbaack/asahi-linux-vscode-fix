@@ -1,8 +1,6 @@
 # Fixing VSCode Crashes on Asahi Linux (Apple Silicon/ARM64)
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![Asahi Linux](https://img.shields.io/badge/Asahi-Linux-blue)](https://asahilinux.org/)
-[![VSCode](https://img.shields.io/badge/VS-Code-blue)](https://code.visualstudio.com/)
+https://asahilinux.org/img/AsahiLinux_logo.svg?d619e737
 
 A comprehensive guide to fixing the Visual Studio Code crashes that occur on Asahi Linux when running on Apple Silicon (M1/M2/M3) hardware. This fix applies to all ARM64 Linux distributions running on systems with 16K page sizes.
 
